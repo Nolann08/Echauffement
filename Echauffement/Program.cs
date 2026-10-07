@@ -7,7 +7,6 @@ class Program
         /*
          * Consigne générale : faites un commit entre chaque étape !
          */
-        //
 
         // Etape 1 : présentez-vous en écrivant votre prénom et votre jeu préféré
         Console.WriteLine("Bonjour je m'appelle Nolann et mon jeu préféré du moment c'est World of Warcraft");
