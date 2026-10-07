@@ -67,7 +67,7 @@ class Program
         if (choix >= 1 && choix <= 4 && euro >= prix && age>=18) // aide d'internet
         {
             euro = euro - prix;
-            Console.WriteLine("Achat effectué ! Il vous reste " + euro + " euro.");
+            Console.WriteLine("Achat effectué ! Il vous reste " + euro + " euro");
         }
         else
         {
